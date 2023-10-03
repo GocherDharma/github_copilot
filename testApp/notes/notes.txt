@@ -1,0 +1,1 @@
+Setup for up and running with GitHub co-pilot:
