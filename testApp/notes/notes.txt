@@ -89,6 +89,6 @@ Supported IDE :
 
 Setup for up and running with GitHub co-pilot:
 1. Install Visual Studio Code
-2. Install GitHub Copilot and GitHub Copilot Labs extentions
+2. Install GitHub Copilot, GitHub Copilot Chat and GitHub Copilot Labs extentions
 
 
